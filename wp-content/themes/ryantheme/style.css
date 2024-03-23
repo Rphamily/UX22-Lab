@@ -1,0 +1,13 @@
+/*
+Theme Name:     RyanTheme
+Description:    
+Author:         Ryan Pham
+Template:       twentytwentyfour
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+footer{
+	background: #9800FA;
+	color: white;
+}
